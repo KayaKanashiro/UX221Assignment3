@@ -22,12 +22,27 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/cute-teddy-bear/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/flying-pigeon/
+            http://localhost:8000/products/penguin-plush/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/bunny-plushie/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/snoopy-plush/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/giraffe-plushie/
         </loc>
     </url>
     <url>
