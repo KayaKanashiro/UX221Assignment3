@@ -7,3 +7,6 @@
 [13-Mar-2025 00:01:01 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/ext-comp/index.php on line 71
 [13-Mar-2025 00:01:04 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/ext-comp/index.php on line 67
 [13-Mar-2025 00:02:02 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/ext-comp/index.php on line 67
+[13-Mar-2025 00:09:16 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 4096 bytes) in /workspaces/UX221Assignment3/.wordpress/wp-includes/blocks/blocks-json.php on line 6547
+[13-Mar-2025 00:09:16 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 94208 bytes) in /workspaces/UX221Assignment3/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 507
+[13-Mar-2025 00:10:44 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Assignment3/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
